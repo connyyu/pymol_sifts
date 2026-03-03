@@ -14,7 +14,7 @@ In PyMOL 3.0+ or Open-Source PyMOL, go to _Plugin_ -> _Plugin Manager_ <br>
 In the _Install New Plugin_ tab, under _Install from PyMOLWiki or any URL:_
 
 Fetch this URL:<br>
-[https://github.com/connyyu/list_proteins/blob/main/sifts.py
+[https://github.com/connyyu/pymol_sifts/blob/main/sifts.py
 ](https://github.com/connyyu/pymol_sifts/blob/main/sifts.py)
 
 ### Usage
